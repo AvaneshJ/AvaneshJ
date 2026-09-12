@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+software;QA+%26+Full+Stack+Developer;Exploring+AI%2C+Cybersecurity+%26+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+software;QA+%26+Full+Stack+Developer;Exploring+AI%2C+Cybersecurity+%26+Systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,fastapi,mongodb,sqlite,git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,fastapi,mongodb,sqlite,git,github,docker,linux,vscode" alt="Tech stack" />
 </p>
 
 ---
@@ -31,13 +31,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AvaneshJ&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=AvaneshJ&theme=github-dark&hide_border=true"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=AvaneshJ&theme=github-dark&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvaneshJ&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvaneshJ&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
+
+> Note: Public `github-readme-stats` / trophy APIs often return 503/402. Streak + activity graph are more reliable. If you want classic stats cards, self-host them (see below).
 
 ---
 
@@ -69,18 +70,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AvaneshJ&theme=algolia&no-frame=true&margin-w=10&row=1"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AvaneshJ/AvaneshJ/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvaneshJ/AvaneshJ/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvaneshJ/AvaneshJ/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/AvaneshJ/AvaneshJ/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -88,11 +85,11 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/avanesh-joshi-708701289/)">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  <a href="https://www.linkedin.com/in/avanesh-joshi-708701289/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
   </a>
   <a href="mailto:avaneshj2408@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
   </a>
 </p>
 
