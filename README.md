@@ -80,7 +80,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvaneshJ&theme=github-compact&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/AvaneshJ/AvaneshJ/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
