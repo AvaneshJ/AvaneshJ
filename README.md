@@ -31,14 +31,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=AvaneshJ&theme=github-dark&hide_border=true" alt="GitHub streak" />
+  <a href="https://github.com/AvaneshJ">
+    <img src="https://img.shields.io/github/followers/AvaneshJ?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  </a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAvaneshJ&query=%24.public_repos&style=for-the-badge&label=Public%20Repos&color=238636" alt="Public repos" />
+  <img src="https://komarev.com/ghpvc/?username=AvaneshJ&style=for-the-badge&color=0d1117" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvaneshJ&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=AvaneshJ&theme=github-dark&hide_border=true" alt="GitHub streak" />
 </p>
-
-> Note: Public `github-readme-stats` / trophy APIs often return 503/402. Streak + activity graph are more reliable. If you want classic stats cards, self-host them (see below).
 
 ---
 
@@ -70,13 +72,13 @@
 
 ---
 
-## 📈 Contribution Snake
+## 📈 Contribution Graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvaneshJ/AvaneshJ/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvaneshJ/AvaneshJ/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/AvaneshJ/AvaneshJ/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AvaneshJ/AvaneshJ@output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/AvaneshJ/AvaneshJ@output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://cdn.jsdelivr.net/gh/AvaneshJ/AvaneshJ@output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
